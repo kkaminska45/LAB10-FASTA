@@ -1,0 +1,20 @@
+>seq1 Homo sapiens fragment
+ATGCCGTAGCTAGCTAGCTA
+>seq2 Mus musculus fragment
+ATGCGCGATCGATCGATCGC
+>seq3 Danio rerio example
+ATGGGCTAGCTAGTTAGCTAAGTC
+>seq4 Canis lupus familiaris gene
+ATGCCGATCGATCGGATCGATCGATCG
+>seq5 Felis catus partial sequence
+ATGCGTAGCTAGCTGACTAGCTAGCTAGCTA
+>seq6 Drosophila melanogaster
+ATGCGGATCGTAGCTAGCTAGC
+>seq7 Arabidopsis thaliana chloroplast
+ATGCGATCGATCGATCGGATCGGAT
+>seq8 Saccharomyces cerevisiae DNA fragment
+ATGCCGATCGATGCTAGCTAGCTAGCTAGCTAGCTA
+>seq9 Caenorhabditis elegans gene
+ATGGCTAGCTAGCTAGGCTAGCTAGC
+>seq10 Escherichia coli K12
+ATGCGTAGCTAGCGATCGATCGATC
